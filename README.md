@@ -8,13 +8,13 @@ This repository contains my solutions to various challenges on HackerRank, organ
 - [SQL](#sql)
 
 ## C
-Java-specific challenges and solutions categorized by difficulty:
+C-specific challenges and solutions categorized by difficulty:
 - [Easy](C/Easy)
 - [Medium](C/Medium)
 - [Hard](C/Hard)
 
 ## C++
-SQL query challenges categorized by difficulty:
+C++ specific challenges categorized by difficulty:
 - [Easy](C++/Easy)
 - [Medium](C++/Medium)
 - [Hard](C++/Hard)
