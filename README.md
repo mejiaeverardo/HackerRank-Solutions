@@ -80,7 +80,7 @@ If you have any questions or suggestions, feel free to contact me via **everardo
 ---
 
 ## 🚀 **Happy Coding!**
-This repository is a reflection of my journey through coding challenges and problem-solving. I hope it helps others who are preparing for technical interviews or just love solving programming problems!
+This repository is a reflection of my journey through coding challenges and problem-solving. I hope it helps others who are preparing for technical interviews or just love solving programming problems!!
 
 ---
 
